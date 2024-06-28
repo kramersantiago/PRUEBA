@@ -16,3 +16,8 @@ Para mantener este pipeline, se deben realizar las siguientes acciones:
 - Verificar periódicamente la integridad de los datos.
 - Actualizar las dependencias de Python.
 - Monitorizar el rendimiento de la base de datos y optimizar las consultas si es necesario.
+
+## Visualización de datos
+Se realizó un dashboard dinámico con la herramienta Power BI
+
+<img src="src/analisis.png"/>
